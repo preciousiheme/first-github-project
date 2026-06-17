@@ -1,0 +1,13 @@
+body {
+  background-color: beige;
+}
+
+.hello {
+  background-color: bisque;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  color: black;
+  margin: 20px;
+  justify-content: center;
+  padding: 20px;
+}
