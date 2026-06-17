@@ -32,6 +32,17 @@ body {
 }
 
 .nurse {
-  width: 15o0px;
+  width: 1600px;
   height: 400px;
+}
+.us {
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 30px;
+  color: bisque;
+  font-weight: 100;
+}
+.form {
+  text-align: center;
+  font: 20px;
 }
