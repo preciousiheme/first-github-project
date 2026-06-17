@@ -1,13 +1,37 @@
-body {
-  background-color: beige;
+* {
+  margin: 0;
+  padding: 0;
 }
 
-.hello {
-  background-color: bisque;
-  font-family: "Times New Roman", Times, serif;
-  font-size: 30px;
+body {
+  background-color: white;
+}
+
+.welcome {
+  text-align: center;
+}
+
+.home {
+  color: brown;
+  margin-top: 20px;
+  font-size: 50px;
+  font-family:
+    "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans",
+    Arial, sans-serif;
+}
+
+.joy {
   color: black;
-  margin: 20px;
-  justify-content: center;
-  padding: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.care {
+  background-color: rgb(153, 69, 69);
+  color: aliceblue;
+  font-size: 18px;
+}
+
+.nurse {
+  width: 15o0px;
+  height: 400px;
 }
